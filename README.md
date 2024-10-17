@@ -1,5 +1,5 @@
 👋 Hi, I’m Srivijai
-🌱 A passionate Software Developer with a focus on frontend development using ReactJS and backend development using Python.
+🌱 A passionate Front-End Developer with a focus on frontend development using ReactJS.
 💻 Currently building projects that combine React for dynamic web applications.
 🎓 Completed MCA and constantly learning new technologies to stay updated.
 📚 Currently improving skills with a React JS course on Udemy.
