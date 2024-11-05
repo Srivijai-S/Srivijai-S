@@ -40,7 +40,7 @@
         <td>React, CSS</td>
     </tr>
  <tr>
-        <td><a href=" https://banking-minimalist.netlify.app" target="_blank">💰 Minimalist Banking UI</a></td>
+        <td><a href="https://github.com/Srivijai-S/minimalist-banking"" target="_blank">💰 Minimalist Banking UI</a></td>
         <td>A sleek and simple banking interface built using JavaScript and CSS. This project showcases a clean, user-friendly design with basic banking functionalities.
  <code>Responsive</code>.</td>
         <td>React, CSS</td>
