@@ -39,6 +39,12 @@
         <td>A 15-question quiz app built with React, managing state with <code>useReducer</code>.</td>
         <td>React, CSS</td>
     </tr>
+ <tr>
+        <td><a href=" https://banking-minimalist.netlify.app/" target="_blank">💰 Minimalist Banking UI</a></td>
+        <td>A sleek and simple banking interface built using JavaScript and CSS. This project showcases a clean, user-friendly design with basic banking functionalities.
+ <code>Responsive</code>.</td>
+        <td>React, CSS</td>
+    </tr>
 </table>
 
 <h2>Connect with Me</h2>
