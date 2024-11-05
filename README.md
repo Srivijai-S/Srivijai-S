@@ -6,7 +6,6 @@
 🚀 Interested in exploring full-stack development and creating seamless user experiences.
 ⚡ Fun fact: I love problem-solving and optimizing code!
 
-![image](https://github.com/user-attachments/assets/89c0b547-a869-4d73-9354-8648267fd8e4)
-
+![image](https://github.com/user-attachments/assets/1657aa2d-3278-41a7-940e-c4a63a28cf54)
 
 Let’s collaborate on open-source projects!
