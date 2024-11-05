@@ -5,7 +5,7 @@
 📚 Currently improving skills with a React JS course on Udemy.</br>
 🚀 Interested in exploring full-stack development and creating seamless user experiences.</br>
 ⚡ Fun fact: I love problem-solving and optimizing code!
-</br>
+
 ![image](https://github.com/user-attachments/assets/1657aa2d-3278-41a7-940e-c4a63a28cf54)
 
 Let’s collaborate on open-source projects!
