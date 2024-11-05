@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=33F7F7&width=435&lines=Full-Stack+Developer;Passionate+About+React+%26+JavaScript;Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=33F7F7&width=435&lines=Front-end+Developer;Passionate+About+React+%26+JavaScript;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,8 +18,8 @@
 <h2>My Skills 🛠️</h2>
 <ul>
     <li><strong>Languages:</strong> JavaScript, HTML, CSS</li>
-    <li><strong>Frameworks/Libraries:</strong> React, React Router, Bootstrap</li>
-    <li><strong>Tools & Technologies:</strong> Git, npm, Upstox</li>
+    <li><strong>Frameworks/Libraries:</strong> React, React Router, Tailwind</li>
+    <li><strong>Tools & Technologies:</strong> Git, npm, VisualStudio</li>
 </ul>
 
 <h2>Projects 🚀</h2>
@@ -30,12 +30,12 @@
         <th>Tech Stack</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/yourusername/dice-game" target="_blank">🎲 Dice Game</a></td>
+        <td><a href="https://github.com/Srivijai-S/dicegame" target="_blank">🎲 Dice Game</a></td>
         <td>A simple, fun dice game using HTML, CSS, and JavaScript.</td>
         <td>HTML, CSS, JavaScript</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/yourusername/react-quiz-app" target="_blank">🧠 React Quiz App</a></td>
+        <td><a href="https://github.com/Srivijai-S/React-Quiz" target="_blank">🧠 React Quiz App</a></td>
         <td>A 15-question quiz app built with React, managing state with <code>useReducer</code>.</td>
         <td>React, CSS</td>
     </tr>
@@ -48,15 +48,6 @@
 </p>
 
 ---
-
-<h2>📈 GitHub Stats</h2>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
