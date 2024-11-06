@@ -30,9 +30,9 @@
         <th>Tech Stack</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/Srivijai-S/dicegame" target="_blank">🎲 Dice Game</a></td>
-        <td>A simple, fun dice game using HTML, CSS, and JavaScript.</td>
-        <td>HTML, CSS, JavaScript</td>
+        <td><a href="https://github.com/Srivijai-S/Wander-Map" target="_blank">🎲 Dice Game</a></td>
+        <td>Wander Map is a React application built with Vite that allows users to mark their tour locations on a map and add notes for each marked location.</td>
+        <td>ReactJs, CSS, 3rd Part React Libraries </td>
     </tr>
     <tr>
         <td><a href="https://github.com/Srivijai-S/React-Quiz" target="_blank">🧠 React Quiz App</a></td>
