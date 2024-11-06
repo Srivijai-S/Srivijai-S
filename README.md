@@ -30,7 +30,7 @@
         <th>Tech Stack</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/Srivijai-S/Wander-Map" target="_blank">🎲 Dice Game</a></td>
+        <td><a href="https://github.com/Srivijai-S/Wander-Map" target="_blank">🗺️📌Wander Map</a></td>
         <td>Wander Map is a React application built with Vite that allows users to mark their tour locations on a map and add notes for each marked location.</td>
         <td>ReactJs, CSS, 3rd Part React Libraries </td>
     </tr>
