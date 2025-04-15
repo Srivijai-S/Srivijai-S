@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=33F7F7&width=435&lines=Front-end+Developer;Passionate+About+React+%26+JavaScript;Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=33F7F7&width=435&lines=Full-Stack+Developer;Passionate+About+React+%26+JavaScript;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
