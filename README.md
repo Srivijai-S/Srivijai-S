@@ -13,13 +13,13 @@
 ---
 
 <h2>About Me</h2>
-<p>I'm a <strong>passionate software developer</strong> with a focus on front-end development using <strong>React, JavaScript</strong>, and related technologies. I've built projects ranging from interactive quizzes to dynamic games, and I'm continuously expanding my skills. Currently, I'm exploring new ways to enhance user interfaces and improve web application performance.</p>
+<p>I'm a <strong>passionate software developer</strong> with a focus on Full Stack development using <strong>React,Angular,Next JS,Figma ,Visily,Firebase,Typescript,MySQL,TypeORM,JavaScript</strong>, and related technologies. I've built projects ranging from interactive quizzes to dynamic games, and I'm continuously expanding my skills. Currently, I'm exploring new ways to enhance user interfaces and improve web application performance.</p>
 
 <h2>My Skills 🛠️</h2>
 <ul>
-    <li><strong>Languages:</strong> JavaScript, HTML, CSS</li>
-    <li><strong>Frameworks/Libraries:</strong> React, React Router, Tailwind</li>
-    <li><strong>Tools & Technologies:</strong> Git, npm, VisualStudio</li>
+    <li><strong>Languages:</strong> JavaScript, MySQL,HTML, CSS</li>
+    <li><strong>Frameworks/Libraries:</strong> React,Next JS,Angular,MUI React Router,TypeORM, Tailwind</li>
+    <li><strong>Tools & Technologies:</strong> Git, npm, VisualStudio,Figma,Visily,Gitlab</li>
 </ul>
 
 <h2>Projects 🚀</h2>
@@ -28,6 +28,11 @@
         <th>Project</th>
         <th>Description</th>
         <th>Tech Stack</th>
+    </tr>
+      <tr>
+        <td><a href="https://github.com/Srivijai-S/FlashSale" target="_blank">⚡Flash Sale</a></td>
+        <td>FlashSale is a fully responsive, e-commerce platform built for the ultimate shopping experience during flash sales.</td>
+        <td>ReactJs,Firebase,Airtable,MUI, 3rd Party React Libraries </td>
     </tr>
     <tr>
         <td><a href="https://github.com/Srivijai-S/Wander-Map" target="_blank">📌Wander Map</a></td>
